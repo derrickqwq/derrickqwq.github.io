@@ -1,0 +1,9 @@
+h1{
+	transition: 1500ms;
+	color: black;
+}
+h1:hover{
+	transition: 1500ms;
+	color: aqua;
+	font-size: 300px;
+}
